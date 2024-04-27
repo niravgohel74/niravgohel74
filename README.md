@@ -17,6 +17,6 @@ A passionate Backend developer from India
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/neeravgohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neeravgohel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nirav-gohel-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nirav-gohel-/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirav-gohel-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirav-gohel-" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/neeravgohel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neeravgohel/" height="30" width="40" /></a>
 </p>
