@@ -1,22 +1,135 @@
-# Hey! 👋
-A passionate Backend developer from India
+<!-- Heads up: replace every "your-github-username" below with your actual GitHub username before pushing, so the stats/streak/trophy/views widgets point at your profile instead of showing broken images. -->
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+<div align="center">
 
-<h3 align="left">Social:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/neeravgohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neeravgohel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirav-gohel-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirav-gohel-" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/neeravgohel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neeravgohel/" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A86FF&height=220&section=header&text=Hi%20There!%20I'm%20Nirav%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=52&descAlign=50&descColor=FFFFFF" width="100%" alt="Header banner"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=700&lines=Python,+Django,+FastAPI+Developer;Full-Stack+Engineer:+Vue.js+and+Angular;Building+ERPs+and+E-commerce+Platforms;Currently+Learning+Machine+Learning+🤖" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&color=F72585&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/your-github-username?label=FOLLOWERS&style=for-the-badge&color=3A86FF" alt="Followers"/> -->
+
+</div>
+
+---
+
+### 🚀 About Me
+
+- 💼 2+ years shipping production apps with **Python, Django & FastAPI**
+
+- 🧩 Full-stack when the project calls for it — **Vue.js, Angular.js, JavaScript**
+
+- 🤖 Currently learning **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.
+
+- 🌱 **Exploring**
+
+    - Machine Learning
+    - Deep Learning
+    - Generative AI
+    - Computer Vision
+    - LLM Applications
+- 📫 Let's connect — links at the bottom!
+
+---
+
+### 💼 Featured Work
+
+| Project | What it is |
+|:---|:---|
+| 🔩 **EvoParts** | B2B e-commerce platform |
+| 🏭 **EvoSteel** | Manufacturing ERP system |
+| 🚲 **QuadVelo** | German bicycle e-commerce platform |
+| 🔌 **PCB Management System** | Workflow tool for PCB manufacturing |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Backend**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+**Database & Tools**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+**Currently Exploring**
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+---
+<!-- 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+
+</div> -->
+
+<!-- --- -->
+
+# 💡 Fun Facts
+
+- ☕ Coffee + Python = Productivity
+- 🚀 Love building scalable backend systems
+- 🤖 Learning AI one project at a time
+- 🌍 Always excited to collaborate on open-source projects
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nirav-gohel-">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/neeravgohel">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.instagram.com/neeravgohel/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building scalable software today while exploring intelligent systems for tomorrow."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:7C3AED,100:EC4899"/>
+
+</div>
