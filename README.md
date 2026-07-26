@@ -5,7 +5,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A86FF&height=220&section=header&text=Hi%20There!%20I'm%20Nirav%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=52&descAlign=50&descColor=FFFFFF" width="100%" alt="Header banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=700&lines=Python,+Django,+FastAPI+Developer;Full-Stack+Engineer:+Vue.js+and+Angular;Building+ERPs+and+E-commerce+Platforms;Currently+Learning+Machine+Learning+🤖" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Python+Django+%26+FastAPI+Developer;Full-Stack+Engineer+%7C+Vue.js+%26+Angular;Building+ERP+%26+E-Commerce+Platforms;Currently+Learning+Machine+Learning"
+    alt="Typing SVG"
+  />
 </a>
 
 <br/>
