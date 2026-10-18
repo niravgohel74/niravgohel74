@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="niravgohel74's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!-- Heads up: replace every "your-github-username" below with your actual GitHub username before pushing, so the stats/streak/trophy/views widgets point at your profile instead of showing broken images. -->
 
 <div align="center">
